@@ -7,3 +7,4 @@ https://user-images.githubusercontent.com/76117268/230739471-6358fbba-8fae-4a00-
 Installation:-
 cd server -> npm install -> nodemon index.js
 cd client -> npm install -> npm start
+ 
