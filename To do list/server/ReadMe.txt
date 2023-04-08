@@ -1,0 +1,1 @@
+npm install express pg cors ///pg is used to connect data from server to postgresql
